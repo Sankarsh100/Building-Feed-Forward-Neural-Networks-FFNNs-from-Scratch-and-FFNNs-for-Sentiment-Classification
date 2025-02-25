@@ -1,0 +1,2 @@
+🔹 All training and evaluation logs will be saved at:
+/content/drive/MyDrive/Colab Notebooks/Programming Assignment 2/training_results.txt
